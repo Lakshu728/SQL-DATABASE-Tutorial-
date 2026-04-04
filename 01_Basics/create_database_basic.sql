@@ -8,4 +8,4 @@ gendar enum('Male', 'Female', 'Other'),
 date_of_birth date,
 created_at timestamp default current_timestamp
 );
-select * from startsql,
+select * from  users;
